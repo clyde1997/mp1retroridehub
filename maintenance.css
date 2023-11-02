@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Marko+One&display=swap');
+
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+    }
+    
+body{
+    margin: auto;
+        background-color: black;
+    }
+
+
+    #nav{
+       
+        justify-content: end;
+}
+
+
+.navigation a:hover{
+transition: 0.5s ease;
+background-color: rgb(119, 0, 0);
+border-radius: 10px;
+padding: 5px;
+
+}
+
+.covertxt h1{
+
+    font-family: 'Marko One', serif;
+}
+
+.cover{
+    position: relative;
+    text-align: center;
+}        
+
+.covertxt{
+
+    position: absolute;
+    top:35%;
+    background-color: rgb(119, 0, 0);
+    color: aliceblue;
+    padding: 20px;
+}
+
+.harleytxt{
+    margin-top: 100px;
+    text-align: left;
+    color: aliceblue;
+}
+
+
+.shopcard{
+
+background-color: rgb(19, 19, 19);
+color: aliceblue;
+}
+
+.shopcard:hover{
+
+transition: 0.5s ease;
+transform: scale(1.1);
+box-shadow: 0px 0px 30px 2px rgb(122, 122, 122);
+
+}
+
+     .footer{
+        background-color: rgb(119, 0, 0);
+        padding: 50px;
+    
+    }
+    
+    .footer a:hover{
+    
+        text-decoration: underline;
+    
+    }

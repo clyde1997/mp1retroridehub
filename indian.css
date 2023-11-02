@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Marko+One&display=swap');
+
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+    }
+    
+body{
+    margin: auto;
+        background-color: black;
+    }
+
+    #nav{
+       
+        justify-content: end;
+}
+
+
+.navigation a:hover{
+transition: 0.5s ease;
+background-color: rgb(119, 0, 0);
+border-radius: 10px;
+padding: 5px;
+
+}
+
+.covertxt h1{
+
+    font-family: 'Marko One', serif;
+}
+
+.cover{
+    position: relative;
+    text-align: center;
+}        
+
+.covertxt{
+
+    position: absolute;
+    top:35%;
+    background-color: rgb(119, 0, 0);
+    color: aliceblue;
+    padding: 20px;
+}
+
+.harleytxt{
+    margin-top: 100px;
+    text-align: left;
+    color: aliceblue;
+}
+
+.bestmctxt{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(119, 0, 0);
+    font-size: 30px;
+    padding: 15px;
+    border-radius: 20px;
+    
+    }
+.models{
+
+    justify-items: center;
+    align-items: center;
+}
+
+.retrocard{
+
+    width: 100rem;
+    background-color: black;
+    color: aliceblue;
+}
+
+.retrologo img{
+
+    background-color: white;
+    border-radius: 100rem;
+}
+
+.retrotxt h1{
+
+    background-color: rgb(119, 0, 0);
+    padding: 15px;
+border-radius: 5px;
+}
+
+.retrotxt {
+
+    padding-top: 7rem;
+}
+
+.sportster{
+    padding: 35px;
+    }
+    
+    .sportster h1{
+    font-size: 20px;
+    color: aliceblue;
+    }
+    
+    .fatboy114{
+        padding: 35px;
+        }
+    
+    .fatboy114 h1{
+    font-size: 20px;
+    color: aliceblue;
+    }
+            
+    .streetbob{
+        padding: 35px;
+        }
+    
+    .models h1{
+    font-size: 20px;
+    color: aliceblue;
+    }
+
+    .models a{
+        font-size: 17px;
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgb(119, 0, 0);
+    padding: 10px;
+    border-radius: 5px;
+     }   
+    
+    .models a:hover{
+        padding: 15px;
+        transition: 0.5s ease;
+    } 
+    
+    .models h1, a{
+        padding-bottom: 25px;
+     }
+
+     .footer{
+        background-color: rgb(119, 0, 0);
+        padding: 50px;
+    
+    }
+    
+    .footer a:hover{
+    
+        text-decoration: underline;
+    
+    }

@@ -1,0 +1,64 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+    }
+    
+body{
+    margin: auto;
+        background-color: black;
+    }
+
+
+    #nav{
+       
+        justify-content: end;
+}
+
+
+.navigation a:hover{
+transition: 0.5s ease;
+background-color: rgb(119, 0, 0);
+border-radius: 10px;
+padding: 5px;
+
+}
+
+.cardmain{
+
+    background-color: rgb(15, 15, 15);
+
+}
+
+.cardmaintxt :hover{
+
+transition: 0.5s ease;
+color: rgb(255, 224, 122);
+
+}
+
+.cardmain:hover{
+
+    transition: 0.5s ease;
+    transform: scale(1.1);
+box-shadow: 0px 0px 30px 2px rgb(122, 122, 122);
+}
+
+
+.cardmcreview{
+
+    background-color: rgb(15, 15, 15);
+    color: aliceblue;
+}
+
+
+     .footer{
+        background-color: rgb(119, 0, 0);
+        padding: 50px;
+    
+    }
+    
+    .footer a:hover{
+    
+        text-decoration: underline;
+    
+    }

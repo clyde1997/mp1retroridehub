@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+
+*{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+body{
+margin: auto;
+    background-color: black;
+}
+
+
+#nav{
+       
+        justify-content: end;
+}
+
+
+.navigation a:hover{
+transition: 0.5s ease;
+background-color: rgb(119, 0, 0);
+border-radius: 10px;
+padding: 5px;
+
+}
+
+.main{
+    position: relative;
+    text-align: center;
+}
+.mainvid video{
+  
+     opacity: 0.7;
+}
+
+.maintext{
+    position:absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+.maintext h1{
+    font-family: 'Fjalla One', sans-serif;
+    color: aliceblue;
+}
+
+.maintext p{
+    font-family: 'Fjalla One', sans-serif;
+        color: aliceblue;
+    
+    }
+
+
+.car1{
+    position: relative;
+        
+}
+        
+.car1 a{
+        
+    position: absolute;
+    top:85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.car2{
+    position: relative;
+        
+}
+        
+.car2 a{
+        
+    position: absolute;
+    top:85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.car3{
+    position: relative;
+        
+}
+        
+.car3 a{
+        
+    position: absolute;
+    top:85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.car4{
+    position: relative;
+        
+}
+        
+.car4 a{
+        
+    position: absolute;
+    top:85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.maintenance{
+position: relative;
+text-align: center;
+
+}    
+
+.maintenancetxt h2{
+    font-family: 'Fjalla One', sans-serif;
+    
+}
+
+.maintenancetxt{
+
+position: absolute;
+top:30%;
+color: aliceblue;
+background-color: rgb(119, 0, 0);
+padding: 15px;
+}
+
+ 
+.maintenancetxt a{
+    text-decoration: none;
+    color: aliceblue;
+    
+        }   
+
+  
+.footer{
+    background-color: rgb(119, 0, 0);
+    padding: 50px;
+
+}
+
+.footer a:hover{
+
+    text-decoration: underline;
+
+}

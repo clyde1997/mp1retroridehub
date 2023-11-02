@@ -1,0 +1,98 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+    }
+    
+body{
+    margin: auto;
+        background-color: black;
+    }
+
+   
+    #nav{
+       
+        justify-content: end;
+}
+
+
+.navigation a:hover{
+transition: 0.5s ease;
+background-color: rgb(119, 0, 0);
+border-radius: 10px;
+padding: 5px;
+
+}
+
+    .mcrightcol h1{
+        color: aliceblue;
+      
+    }
+
+    .mcrightcol h3{
+        color: aliceblue;
+        background-color: rgb(119, 0, 0);
+        padding: 2%;
+
+    }
+
+.mcgal img:hover{
+
+    transform:scale(1.1);
+    transition: 0.5s ease;
+
+}
+ 
+
+    .mcrightcol p{
+        color: aliceblue;
+
+    }
+
+    .bestmctxt{
+
+        color: aliceblue;
+    }
+
+    .models h1{
+        color: aliceblue;
+        font-size: 20px;
+    }
+
+
+.gallerytxt{
+color: aliceblue;
+    background-color: rgb(119, 0, 0);
+    padding: 2%;
+
+}
+
+
+.formcont{
+
+    color: aliceblue;
+    width: 60%;
+    
+}
+
+.formcont h4{
+color: rgb(255, 255, 255);
+background-color: rgb(119, 0, 0);
+    padding: 15px;
+
+}
+
+.submit{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.footer{
+    background-color: rgb(119, 0, 0);
+    padding: 50px;
+
+}
+
+.footer a:hover{
+
+    text-decoration: underline;
+}
